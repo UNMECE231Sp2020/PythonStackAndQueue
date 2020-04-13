@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr  8 01:41:17 2020
-
-@author: Frankie
-"""
-
-# -*- coding: utf-8 -*-
-"""
 @author: Francisco Viramontes
 
 Description:
